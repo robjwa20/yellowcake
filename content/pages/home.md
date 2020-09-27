@@ -1,9 +1,9 @@
 ---
 template: HomePage
 slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+title: Ricarville Ltd
+featuredImage: 'https://ucarecdn.com/067f2151-2884-48c7-aaea-83ea822ac5da/'
+subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
